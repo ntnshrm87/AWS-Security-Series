@@ -13,4 +13,4 @@ This AWS Security Series is designed to bring awareness around different AWS Ser
 For queries feel free to connect with AWS Delhi User Group at:
 
 1. [AWS Delhi User Group](https://www.meetup.com/AmazonAWS-Delhi/) (Meet-Up) - Learn Together, Grow Together
-2. [AWS User Group Delhi NCR](https://www.linkedin.com/company/aws-user-group-delhi-ncr) (Follow us in LinkedIn Page)
+2. [AWS User Group Delhi NCR](https://www.linkedin.com/company/aws-user-group-delhi-ncr) (Follow us at LinkedIn Page)
