@@ -1,0 +1,2 @@
+# AWS-Security-Series
+Security is undoubtedly one of the foremost concerns with cloud infrastructure. While AWS makes sure it’s upholding cloud security through best practices and a wide range of security resources, one still need to observe and follow the right security practices when deploying and maintaining AWS workloads.   This AWS Security Series is designed to bring awareness around different AWS Services from a security mindset focusing on risks and compliance. 
