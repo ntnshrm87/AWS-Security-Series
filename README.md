@@ -10,10 +10,6 @@ This AWS Security Series is designed to bring awareness around different AWS Ser
 
 **Session 1 :sparkles: [AWS Security Fundamentals and Audit Best Practices](https://youtu.be/I_snxnOF_3w) (Date: June 12th, 2021)**: This session marks the beginning of our AWS Security series and aims at going through the fundamental knowledge around cloud security and auditing. Have you ever wondered how exposed your AWS account is, or what all AWS resources are accessible to everyone over the Internet ? If not, then this session can help you out to be aware about your AWS account resources. One can learn how to audit their own AWS accounts with the help of industry standard tools. 
 
-Speaker Bio:
-
-
-
 For queries feel free to connect with AWS Delhi User Group at:
 
 1. [AWS Delhi User Group](https://www.meetup.com/AmazonAWS-Delhi/) (Meet-Up) - Learn Together, Grow Together
