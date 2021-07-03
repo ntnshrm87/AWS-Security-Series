@@ -1,0 +1,57 @@
+#Scenario 1
+{
+	"Version": "2012-10-17",
+	"Statement": [
+		{
+		  "Effect": "Allow",
+		  "Action": [
+		  	"iam:GetRole",
+		  	"iam:PassRole"
+		  ],
+		  "Resource": "*"		
+		}
+	]
+}
+
+
+#Scenario 2
+{
+	"Version": "2012-10-17",
+	"Statement": [
+		{
+		  "Effect": "Allow",
+		  "Action": [
+		  	"iam:GetRole",
+		  	"iam:PassRole"
+		  ],
+		  "Resource": "*", 		
+		}
+	]
+}
+
+#Scenario 3
+{
+	"Version": "2012-10-17",
+	"Statement": [
+		{
+			"Effect": "Allow",
+			"Action": "s3:*",
+			"Resource": "*",
+			"Condition":{
+				"DateGreaterThan": {"aws:CurrentTime": "2021"}
+			}
+		}
+	]
+}
+
+#Scenario 4
+{
+	"Version": "2012-10-17",
+	"Statement": [
+		{
+			"Effect": "Allow",
+			"Action": [],
+			"Resource": "*"
+		}
+	]
+} 
