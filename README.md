@@ -16,7 +16,7 @@ This AWS Security Series is designed to bring awareness around different AWS Ser
 
 **Session 4 :sparkles: [AWS S3 Security: Fundamentals of Data Protection](https://www.youtube.com/watch?v=qkdVy77Ym1U) (Upcoming on Date: Aug 14th, 2021)**: AWS launched their Storage service under the name S3 aka Simple Storage Service in the year 2006. Since then, there have been a lot of advancements in S3 technology. However, due to apparent inability of organisations to correctly and appropriately secure the data they hold in AWS Cloud S3 Buckets, data gets exfiltrated and breached. This session will cover the fundamental aspects for Data Protection and securing S3 configuration. Presentation [here](https://github.com/ntnshrm87/AWS-Security-Series/blob/main/Session-4/AWS%20Security%20Series_%20Session%204.pdf)
 
-**Session 5 :sparkles: [AWS S3 Security: Attack & Defense] (Upcoming on Date: Aug 28th, 2021)**: This will be in continuation of the previous S3 session and covers the security best practices and recommendations for AWS S3 service along with a hands-on demo utilizing an S3 Security Assessment tool. This session is dedicated to folks who would like to understand AWS S3 related misconfigurations and exploitations. 
+**Session 5 :sparkles: [AWS S3 Security: Attack & Defense](https://www.youtube.com/watch?v=47QgFjSXsL0) (Upcoming on Date: Sept. 3rd, 2021)**: This will be in continuation of the previous S3 session and covers the security best practices and recommendations for AWS S3 service along with a hands-on demo utilizing an S3 Security Assessment tool. This session is dedicated to folks who would like to understand AWS S3 related misconfigurations and exploitations. 
 
 For queries feel free to connect with AWS Delhi User Group at:
 
