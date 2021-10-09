@@ -1,0 +1,3 @@
+Good Morning Everybody,
+
+My name is Vann Bokhorst Serdar, and today I feel like sharing a whole lot of personal innformation with you. Let's start with my Email address SerdarvanBokhorst@dayrep.com. My address is 2657 Koontz Lane, Los Angeles, CA. My phone number is 818-828-6231. My Social security number is 548-95-6370. My bank account number is 940517528812 and routing number is 195991012. My credit card number is 5334816011668430, Expiration Date 6/1/2022, my C V V code is 121, and my pin 123456. Well, I think that's it. You know a whole lot about me. And I hope that Amazon Macie is doinng a good job at identifying PII entities so you can discover my personal information in this document. Let's check!
