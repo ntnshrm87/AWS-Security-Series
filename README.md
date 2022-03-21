@@ -22,6 +22,8 @@ This AWS Security Series is designed to bring awareness around different AWS Ser
 
 **Session 7 :sparkles: [AWS Security: Data Classification and Protection with AWS Macie](https://www.youtube.com/watch?v=psuJTqR0hqY) (Date: Oct. 9th, 2021)**: As organizations manage growing volumes of data, identifying and protecting their sensitive data at scale can become increasingly complex, expensive, and time-consuming. In cloud workloads, this become more difficult to a certain extent. To help customers manage the scalable on-demand and automated sensitive data discovery  jobs within AWS workloads, Amazon Macie comes to rescue. Amazon Macie is a fully managed data security and data privacy service that uses machine learning and pattern matching to discover and protect your sensitive data in AWS. In this session, we are going to discuss about Amazon Macie service to assess data privacy, security and regulatory compliance for AWS workloads. Presentation [here](https://github.com/ntnshrm87/AWS-Security-Series/blob/main/Session-7/AWS%20Security%20Series_%20Session%207.pdf)
 
+**Session 8 :sparkles: [AWS Security: Threat Intelligence for the Cloud](https://www.youtube.com/watch?v=-hyiO17ZIrs) (Date: Dec. 11th, 2021)**: This session aims at identifying the significance of Threat Intelligence in the Cloud era. It briefly covers the fundamentals of cloud security and threat inteliigence that simplifies the risk management posture for an organisation. Presentation [here](https://github.com/ntnshrm87/AWS-Security-Series/blob/main/Session-8/AWS%20Security%20Series_%20Session%208.pdf)
+
 For queries feel free to connect with AWS Delhi User Group at:
 
 1. [AWS Delhi User Group](https://www.meetup.com/AmazonAWS-Delhi/) (Meet-Up) - Learn Together, Grow Together
